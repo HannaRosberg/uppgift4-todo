@@ -1,0 +1,36 @@
+body {
+    background-color: floralwhite;
+    text-align: center;
+    margin-top: 120px;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+#addtodo {
+    color: blueviolet;
+}
+
+.completed {
+    color: grey;
+    text-decoration: line-through;
+}
+
+small {
+    color: red;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-block {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
